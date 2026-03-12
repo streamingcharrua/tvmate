@@ -1,5 +1,3 @@
-tv mate completo
-
 #EXTM3U
 #EXTINF:-1 tvg-id="GlobalTv | Uy" tvg-logo="https://imgur.com/G8r4eLU.png" group-title="Uruguay", Canal 1
 https://stmv.gmpro.top/global/global/playlist.m3u8
@@ -522,4 +520,5 @@ https://streams.alwaysdata.net/x?ch=venus.m3u8
 https://streams.alwaysdata.net/x?ch=playboy.m3u8
 
 #EXTINF:-1 tvg-id="Vivid Red, Canal " tvg-logo="https://streaming.alwaysdata.net/img/vivid.png" group-title="Adultos", Vivid Red
+
 https://streams.alwaysdata.net/x?ch=vivid.m3u8
