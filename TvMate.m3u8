@@ -8,7 +8,7 @@ https://stmv.gmpro.top/global/global/playlist.m3u8
 #EXTINF:-1 tvg-id="VivoTv | Uy" tvg-logo="https://i.ibb.co/Drx6fgZ/Logo-white.png" group-title="Uruguay",
 https://stream.vivotv.uy/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="UCLTv | Uy" tvg-logo="https://imgur.com/MCaJsC9.png" group-title="Uruguay",1 Canal Latino
+#EXTINF:-1 tvg-id="UCLTv | Uy" tvg-logo="https://imgur.com/MCaJsC9.png" group-title="Uruguay",1 UCLTv Latino/Uruguay
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://i.imgur.com/2fGVVzg.jpeg" group-title="ARGENTINA INTERIOR",A24 Noticias
