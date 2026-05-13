@@ -13,3 +13,6 @@ Selecciona Lista M3U.
 Importante: Activa la opción "Actualizar al iniciar" para que siempre tengas los últimos canales de cine.
 
 Pega esta URL: https://raw.githubusercontent.com/streamingcharrua/tvmate/refs/heads/main/TvMate.m3u8
+
+mayo-2026
+https://raw.githubusercontent.com/streamingcharrua/tvmate/refs/heads/main/TvMate.m3u8
