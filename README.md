@@ -1,10 +1,10 @@
 README TVMATE iptv
 Disfruta de la experiencia completa de la televisión IPTVM3U # 🎥 TvMate iptv
 
-📋 Guía de Instalación con Televizo
+📋 Guía de Instalación con Tivimate o Televiso app
 Para evitar caídas, sigue estos pasos en tu dispositivo:
 
-Abre Televizo y ve a Ajustes (icono de engranaje).
+Abre Tivimmate y ve a Ajustes (icono de engranaje).
 
 Entra en Listas de reproducción y dale al botón (+).
 
